@@ -8,10 +8,10 @@ Machine learning tools- Logistic Regression,TF-IDF.
 ## Dataset
 Size:24,783 labelled tweets.
 Source:Kaggle dataset.
-Splitting:70% Train(17,348) ,30% Test(7,4,35) with random state=42.
+Splitting:70% Train(17,348) ,30% Test(7,435) with random state=42.
 Classes:Hate Speech,Offensive language,Neither 
 Features:TF-IDF Vectors with 25,693.
 ### 
-1. Clone: 
+1. Clone: https://github.com/abhijit7892/hate-speech-detection.git
 2. Install: `pip install pandas scikit-learn nltk matplotlib seaborn`
-3. Run: Open `Hate_Speech_Detection.ipynb` in Jupyter and run all cells
+3. Run: Open Hate Speech Detection.IPYNB in VS Code.
