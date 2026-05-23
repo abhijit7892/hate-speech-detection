@@ -13,5 +13,5 @@ Classes:Hate Speech,Offensive language,Neither
 Features:TF-IDF Vectors with 25,693.
 ### 
 1. Clone: https://github.com/abhijit7892/hate-speech-detection.git
-2. Install: `pip install pandas scikit-learn nltk matplotlib seaborn`
-3. Run: Open Hate Speech Detection.IPYNB in VS Code.
+2. Install: `pip install pandas numpy scikit-learn nltk matplotlib seaborn`
+3. Run: Open Hate_Speech_Detection.ipynb in VS Code.
